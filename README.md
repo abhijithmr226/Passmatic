@@ -1,4 +1,4 @@
-# ![Passmatic Logo](https://i.ibb.co/4ZLxz6W/passmatic-logo.png) <!-- Replace with your logo -->
+# ![Passmatic Logo](https://i.ibb.co/sJWCJsgz/Screenshot-2025-06-06-12-19-36.png) <!-- Replace with your logo -->
 # Passmatic - Secure Password Generator
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
